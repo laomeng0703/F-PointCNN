@@ -2,7 +2,7 @@
 
 This repository is the implementation of [THIS](http://journal.dcs.or.kr/_common/do.php?a=current&b=11&bidx=2845&aidx=32116)
 
-![architecture](doc/architecture.png)
+![architecture](doc/result.png)
 
 ## Usage
 
