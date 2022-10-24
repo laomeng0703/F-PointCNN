@@ -6,9 +6,8 @@ This repository is the implementation of [THIS](http://journal.dcs.or.kr/_common
 
 ## Usage
 
-PointCNN is implemented and tested with Tensorflow 1.6 in python3 scripts. Tensorflow before 1.5 version is not recommended, because of API. It has dependencies on some python packages such as transforms3d, h5py, plyfile, and maybe more if it complains. Install these packages before the use of PointCNN.
+This repository is implemented and tested with Tensorflow 1.6 in python3 scripts. Tensorflow before 1.5 version is not recommended, because of API. It has dependencies on some python packages such as transforms3d, h5py, plyfile, and maybe more if it complains. Install these packages before the use of Frustum-PointCNN.
 
-If you can only use Tensorflow 1.5 because of OS factor(UBUNTU 14.04),please modify "isnan()" to "std::nan()" in "/usr/local/lib/python3.5/dist-packages/tensorflow/include/tensorflow/core/framework/numeric_types.h" line 49
 
 ### Segmentation
 
